@@ -4,5 +4,5 @@ IT 관련 학을 전공하지 않았으나 사용자가 바라는 목적성에 �
 
 그 이후 깃허브, UI/UX, 알고리즘, Prods 등의 공부를 통하여 IT 산업의 큰 그림을 잘 볼 수 있게 시야를 넓히고 싶습니다. 향후 기획업무와 개발업무에 두 분야 모두 능통한 멀티 기획자로서 뛰어난 퍼포먼스 결과를 만들어 내는 것이 목표입니다.
 
-CRS 자격증 보유 / TableCheck (구 TableSolution) Table Management, CRM / OPERA (Oracle) PMS / Mystique (Guest Relations Platform) /Medallia (Customer feedback management software platform) /Wings (산하정보기술) 역량
+CRS 자격증 보유 / TableCheck (구 TableSolution) Table Management, CRM / OPERA (Oracle) PMS / Mystique (Guest Relations Platform) /Medallia (Customer feedback management software platform) /Wings (산하정보기술) 역량 보유
 
